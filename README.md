@@ -1,7 +1,7 @@
 # GPS 위치 칼만 필터 데모
 
 GPS 위치 데이터에 칼만 필터를 적용하여 노이즈를 제거하고 부드러운 경로를 생성하는 데모 프로젝트입니다.
-![Uploading image.png…]()
+<img width="728" height="985" alt="Image" src="https://github.com/user-attachments/assets/464f37a5-f28c-446a-af39-5dd790d0b65e" />
 
 
 ## 기능
